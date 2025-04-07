@@ -13,7 +13,7 @@ Wazuh XDR | SIEM
 
 </h4>
 
-# 1. Como instalar o Wazuh?
+## 1. Como instalar o Wazuh?
 
 Existem duas formas de realizar a instalação:
 
