@@ -4,6 +4,7 @@
 
 Wazuh XDR | SIEM
 
-Wazuh é uma plataforma gratuita e de código aberto projetada para fornecer segurança abrangente e monitoramento contínuo. Sua função principal é detectar ameaças, analisar vulnerabilidades e gerenciar incidentes de segurança em tempo real.
-
 </h1>
+
+
+Wazuh é uma plataforma gratuita e de código aberto projetada para fornecer segurança abrangente e monitoramento contínuo. Sua função principal é detectar ameaças, analisar vulnerabilidades e gerenciar incidentes de segurança em tempo real.
