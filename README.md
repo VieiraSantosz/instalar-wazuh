@@ -1,6 +1,6 @@
 <h1 align="center">
 
-[![Wazuh Logo](https://github.com/VieiraSantosz/instalar-wazuh/blob/main/images/wazuh_logo.png)](https://wazuh.com)
+[![Shuffle Logo](https://github.com/Shuffle/Shuffle/blob/main/frontend/public/images/Shuffle_logo_new.png)](https://shuffler.io)
 
 Wazuh XDR | SIEM
 
