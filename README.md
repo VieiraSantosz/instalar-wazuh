@@ -14,4 +14,4 @@ Wazuh XDR | SIEM
 </h4>
 
 
-# 1. Como instalar o Wazuh?
+## 1. Como instalar o Wazuh?
