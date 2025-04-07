@@ -14,3 +14,7 @@ Wazuh XDR | SIEM
 </h4>
 
 # 1. Como instalar o Wazuh?
+
+Existem duas formas de realizar a instalação:
+Instalação manual: Siga o passo a passo descrito no arquivo install-guide.md.
+Usando script: Baixe o script install-wazuh e siga as instruções exibidas para realizar o seu primeiro acesso à plataforma.
