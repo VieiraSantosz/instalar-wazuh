@@ -19,4 +19,4 @@ Existem duas formas de realizar a instalação:
 
 **1. Instalação manual:** Siga o passo a passo descrito no arquivo install-guide.md.
 
-**2. Usando script:** Baixe o script install-wazuh e siga as instruções exibidas para realizar o seu primeiro acesso à plataforma.
+**2. Usando script:** Baixe o script install-wazuh e siga as instruções de uso.
