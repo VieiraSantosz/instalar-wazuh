@@ -44,6 +44,7 @@ Após a instalação, o assistente do Wazuh fornecerá as credenciais para o pri
 
 ## Primeiro acesso à plataforma
 **1. Acessar a interface web**
+
 Após a instalação, abra o seu navegador e insira a seguinte URL para acessar a plataforma do Wazuh:
 ```bash
 https://localhost
@@ -51,11 +52,13 @@ https://localhost
 **Nota:** Caso você esteja acessando a plataforma remotamente, substitua o **localhost** pelo endereço IP ou nome de domínio do servidor onde o Wazuh foi instalado.
 
 **2. Login inicial**
+
 Utilize as credenciais fornecidas durante a instalação para realizar o login na plataforma.
 
 ![Wazuh](https://github.com/user-attachments/assets/88f1c874-f404-4094-8000-e29f428a8926)
 
 **3. Após o Login**
+
 Depois de realizar o login, você estará pronto para começar a explorar e configurar a plataforma Wazuh.
 
 ![image](https://github.com/user-attachments/assets/83deff03-05c0-4a5b-8aea-756dbac1c52e)
