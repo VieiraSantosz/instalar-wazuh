@@ -6,9 +6,3 @@ Guia de Instalação do Wazuh
 
 </h1>
 
-
-<h4 align="center">
-  
-[Wazuh](https://wazuh.com) é uma plataforma gratuita e de código aberto projetada para fornecer segurança e monitoramento contínuo. Sua função principal é detectar ameaças, analisar vulnerabilidades e gerenciar incidentes de segurança em tempo real.
-
-</h4>
