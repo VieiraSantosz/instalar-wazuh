@@ -12,7 +12,7 @@ Instruções para a instalação do Wazuh e o primeiro acesso à plataforma.
 
 </h4>
 
-## 1. Pré-Requisitos
+## Pré-Requisitos
 
 Os pré-requisitos para fazer a instalação do Wazuh são os seguintes:
 
@@ -20,7 +20,7 @@ Os pré-requisitos para fazer a instalação do Wazuh são os seguintes:
 - **Mínimo de memória RAM:** 8 GB
 - **Mínimo recomendado de CPU:** 4 CPU
 
-## 2. Instalação do Wazuh
+## Instalação do Wazuh
 
 1. Atualizar seu servidor:
 ```bash
