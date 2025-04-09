@@ -27,3 +27,9 @@ Os pré-requisitos para fazer a instalação do Wazuh são os seguintes:
 sudo apt update && sudo apt upgrade -y
 ```
 
+2. Baixar e executar o assistente de instalação do Wazuh:
+```bash
+curl -sO https://packages.wazuh.com/4.10/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
+```
+
+
