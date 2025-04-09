@@ -38,6 +38,8 @@ Após a conclusão da instalação, o assistente do Wazuh fornecerá automaticam
 
 
 ## Primeiro acesso à plataforma
-1. Na URL do seu naveagor coloque https://<IP_DO_SERVIDOR>
+1. Na URL do seu navegador, insira ‎http://localhost:3001‎
+   
+ 
 
 
