@@ -30,11 +30,12 @@ Antes de iniciar a instalação, certifique-se de que o sistema está atualizado
 sudo apt update && sudo apt upgrade -y
 ```
 
-**2. Baixar e executar o assistente de instalação do Wazuh;**
+**2. Baixar e executar o assistente de instalação do Wazuh:**
+
+Este script automatiza a instalação e configuração do Wazuh. Durante o processo, o assistente irá configurar o servidor Wazuh, baixar pacotes necessários e configurar o ambiente para você.
 ```bash
 curl -sO https://packages.wazuh.com/4.11/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
 ```
-Este script automatiza a instalação e configuração do Wazuh. Durante o processo, o assistente irá configurar o servidor Wazuh, baixar pacotes necessários e configurar o ambiente para você.
 
 Após a instalação, o assistente do Wazuh fornecerá as credenciais para o primeiro acesso (login e senha). Guarde essas informações, pois você precisará delas para acessar a interface web do Wazuh.
 
