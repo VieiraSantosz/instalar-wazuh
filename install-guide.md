@@ -17,6 +17,7 @@ Instruções para a instalação do Wazuh e o primeiro acesso à plataforma.
 Antes de iniciar a instalação, verifique se o seu servidor atende aos seguintes requisitos:
 
 - **Sistema operacional:** CentOS, Red Hat Enterprise Linux (RHEL), Ubuntu e Amazon Linux
+- **Mínimo de disco:** 50 GB
 - **Mínimo de memória RAM:** 8 GB
 - **Mínimo de CPU:** 4 CPU
 
