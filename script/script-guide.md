@@ -2,13 +2,13 @@
 
 [![Wazuh Logo](https://github.com/user-attachments/assets/119abd64-9d52-4170-b976-6037f76f6097)](https://wazuh.com)
 
-Script para instalação do Wazuh
+Script para Instalação do Wazuh
 
 </h1>
 
 <h4 align="center">
 
-Instruções para usar o script install_wazuh.sh.
+Instruções para executar o script install_wazuh.sh e o primeiro acesso à plataforma. 
 
 </h4>
 
