@@ -43,7 +43,7 @@ Após a conclusão da instalação, o assistente do Wazuh fornecerá automaticam
    
 ![Wazuh](https://github.com/user-attachments/assets/0c00fa9f-0b92-47a1-83a1-a1bbe5145d31)
 
-2. Com as informações de login e senha fornecidas pelo assistente do Wazuh, insira os dados nos campos correspondentes e clique em **Log in** para continuar.
+2. Com as informações de login e senha fornecidas pelo assistente do Wazuh, insira os dados em cada campo e clique em **Log in** para continuar.
 
 ![Wazuh](https://github.com/user-attachments/assets/88f1c874-f404-4094-8000-e29f428a8926)
 
