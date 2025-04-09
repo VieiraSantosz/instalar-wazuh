@@ -39,7 +39,7 @@ Após a conclusão da instalação, o assistente do Wazuh fornecerá automaticam
 
 
 ## Primeiro acesso à plataforma
-1. Na URL do seu navegador, insira ‎https://localhost
+1. Na URL do seu navegador, insira ‎https://localhost para acessar a plataforma.
    
 ![Wazuh](https://github.com/user-attachments/assets/f5886fc3-3eab-4627-b4c4-0b2c32e33cdc)
 
