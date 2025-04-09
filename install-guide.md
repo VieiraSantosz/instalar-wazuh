@@ -23,17 +23,17 @@ Os pré-requisitos para fazer a instalação do Wazuh são os seguintes:
 
 ## Instalação do Wazuh
 
-1. Atualizar seu servidor:
+1. Atualizar seu servidor.
 ```bash
 sudo apt update && sudo apt upgrade -y
 ```
 
-2. Baixar e executar o assistente de instalação do Wazuh:
+2. Baixar e executar o assistente de instalação do Wazuh.
 ```bash
 curl -sO https://packages.wazuh.com/4.11/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
 ```
 
-Após a conclusão da instalação, o assistente do Wazuh fornecerá automaticamente seu login e senha de acesso
+Após a conclusão da instalação, o assistente do Wazuh fornecerá automaticamente seu login e senha de acesso.
 
 ## Primeiro acesso à plataforma
 
