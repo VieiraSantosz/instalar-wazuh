@@ -41,7 +41,11 @@ Após a conclusão da instalação, o assistente do Wazuh fornecerá automaticam
 ## Primeiro acesso à plataforma
 1. Na URL do seu navegador, insira ‎https://localhost para acessar a plataforma.
    
-![Wazuh](https://github.com/user-attachments/assets/f5886fc3-3eab-4627-b4c4-0b2c32e33cdc)
+![Wazuh](https://github.com/user-attachments/assets/0c00fa9f-0b92-47a1-83a1-a1bbe5145d31)
+
+2. Com as informações de login e senha fornecidas pelo assistente do Wazuh, insira os dados nos campos correspondentes e clique em **Log in** para continuar.
+
+![Wazuh](https://github.com/user-attachments/assets/88f1c874-f404-4094-8000-e29f428a8926)
 
    
  
