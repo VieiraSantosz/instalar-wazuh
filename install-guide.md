@@ -20,6 +20,7 @@ Os pré-requisitos para fazer a instalação do Wazuh são os seguintes:
 - **Mínimo de memória RAM:** 8 GB
 - **Mínimo recomendado de CPU:** 4 CPU
 
+
 ## Instalação do Wazuh
 
 1. Atualizar seu servidor:
@@ -29,10 +30,11 @@ sudo apt update && sudo apt upgrade -y
 
 2. Baixar e executar o assistente de instalação do Wazuh:
 ```bash
-curl -sO https://packages.wazuh.com/4.10/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
+curl -sO https://packages.wazuh.com/4.11/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
 ```
 
-Finalizado a instalação, o próprio assistente de instalação do Wazuh irá informar o seu login e senha de acesso
+Após a conclusão da instalação, o assistente do Wazuh fornecerá automaticamente seu login e senha de acesso
 
+## Primeiro acesso à plataforma
 
 
