@@ -8,8 +8,7 @@ Guia de Instalação do Wazuh
 
 <h4 align="center">
 
-Instruções para realizar a instalação do Wazuh e seu primeio acesso na plataforma.
-
+Instruções para a instalação do Wazuh e o primeiro acesso à plataforma.
 
 </h4>
 
