@@ -47,6 +47,10 @@ Após a conclusão da instalação, o assistente do Wazuh fornecerá automaticam
 
 ![Wazuh](https://github.com/user-attachments/assets/88f1c874-f404-4094-8000-e29f428a8926)
 
+3. Após o primeiro acesso à aplicação, ela estará pronta para uso.
+
+![image](https://github.com/user-attachments/assets/83deff03-05c0-4a5b-8aea-756dbac1c52e)
+
    
  
 
