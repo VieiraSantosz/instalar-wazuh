@@ -19,4 +19,4 @@ Existem duas formas de realizar a instalação:
 
 **1. Instalação manual:** Siga as instruções no arquivo [install-guide.md](https://github.com/VieiraSantosz/wazuh/blob/main/install-guide.md) para realizar a instalação passo a passo.
 
-**2. Usando script:** Acesse a pasta Script, faça o download do script install-wazuh.sh, e siga as orientações de uso.
+**2. Usando script:** Acesse a pasta [Script](https://github.com/VieiraSantosz/wazuh/tree/main/Script), faça o download do script install-wazuh.sh, e siga as orientações de uso.
