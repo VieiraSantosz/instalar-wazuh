@@ -38,7 +38,7 @@ Após a conclusão da instalação, o assistente do Wazuh fornecerá automaticam
 
 
 ## Primeiro acesso à plataforma
-1. Na URL do seu navegador, insira ‎https://Ip_do_Wazuh‎
+1. Na URL do seu navegador, insira ‎https://localhost
    
  
 
