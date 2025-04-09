@@ -32,22 +32,26 @@ sudo apt update && sudo apt upgrade -y
 ```bash
 curl -sO https://packages.wazuh.com/4.11/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
 ```
+Este script automatiza a instalação e configuração do Wazuh. Durante o processo, o assistente irá configurar o servidor Wazuh, baixar pacotes necessários e configurar o ambiente para você.
 
-Após a conclusão da instalação, o assistente do Wazuh fornecerá automaticamente seu login e senha de acesso.
+Após a instalação, o assistente do Wazuh fornecerá as credenciais para o primeiro acesso (login e senha). Guarde essas informações, pois você precisará delas para acessar a interface web do Wazuh.
 
 ![Acesso Wazuh](https://github.com/user-attachments/assets/3297659a-f968-499d-af37-ce7f5d7a0eb4)
 
 
 ## Primeiro acesso à plataforma
-1. Na URL do seu navegador, insira ‎https://localhost para acessar a plataforma.
-   
-![Wazuh](https://github.com/user-attachments/assets/0c00fa9f-0b92-47a1-83a1-a1bbe5145d31)
+1. Acessar a interface web
+```bash
+https://localhost
+```
+**Nota:** Caso você esteja acessando a plataforma remotamente, substitua o **localhost** pelo endereço IP ou nome de domínio do servidor onde o Wazuh foi instalado.
 
-2. Com as informações de login e senha fornecidas pelo assistente do Wazuh, insira os dados em cada campo e clique em **Log in** para continuar.
+2. Login inicial
+Utilize as credenciais fornecidas durante a instalação para realizar o login na plataforma.
 
 ![Wazuh](https://github.com/user-attachments/assets/88f1c874-f404-4094-8000-e29f428a8926)
 
-3. Após o primeiro acesso à aplicação, ela estará pronta para uso.
+4. Após o primeiro acesso à aplicação, ela estará pronta para uso.
 
 ![image](https://github.com/user-attachments/assets/83deff03-05c0-4a5b-8aea-756dbac1c52e)
 
