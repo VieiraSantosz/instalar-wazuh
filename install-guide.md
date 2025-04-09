@@ -6,3 +6,4 @@ Guia de Instalação do Wazuh
 
 </h1>
 
+## 1. Introdução
