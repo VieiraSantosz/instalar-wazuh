@@ -14,7 +14,7 @@ Instruções para a instalação do Wazuh e o primeiro acesso à plataforma.
 
 ## Pré-Requisitos
 
-Os pré-requisitos para fazer a instalação do Wazuh são os seguintes:
+Antes de iniciar a instalação, verifique se o seu servidor atende aos seguintes requisitos:
 
 - **Sistema operacional:** CentOS, Red Hat Enterprise Linux (RHEL), Ubuntu, Amazon Linux
 - **Mínimo de memória RAM:** 8 GB
