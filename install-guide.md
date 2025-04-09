@@ -33,7 +33,6 @@ curl -sO https://packages.wazuh.com/4.10/wazuh-install.sh && sudo bash ./wazuh-i
 ```
 
 Finalizado a instalação, o próprio assistente de instalação do Wazuh irá informar o seu login e senha de acesso
-![Acesso Wazuh](https://github.com/user-attachments/assets/f97a4b13-0ef6-4945-9eaa-a8e0452bb383)
 
 
 
