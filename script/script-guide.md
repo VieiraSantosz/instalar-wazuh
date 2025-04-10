@@ -23,7 +23,11 @@ Antes de executar o script, verifique se o seu servidor atende aos seguintes req
 
 
 ## Execução do Script
-1. Fazer o download do Script
+1. Clone o repositório
+```bash
+git clone https://github.com/VieiraSantosz/wazuh-guide.git
+```
+
 2. Acesse a pasta do onde está localizado o script
 ```bash
 cd /wazuh-guide/script
@@ -33,7 +37,7 @@ cd /wazuh-guide/script
 ```bash
 chmod +x install_wazuh.sh
 ```
-3. Executar o Script
+4. Executar o Script
 ```bash
 ./install_wazuh.sh
 ```
