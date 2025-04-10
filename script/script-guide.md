@@ -47,6 +47,9 @@ chmod +x install_wazuh.sh
 
 Após a instalação, o script fornecerá as credenciais para o primeiro acesso (login e senha) e o link da interface web. Guarde essas informações, pois você precisará delas para acessar a plataforma do Wazuh.
 
+![image](https://github.com/user-attachments/assets/b4e94513-db92-4bfe-ab59-49c3584f115f)
+
+
 
 ## Primeiro acesso à plataforma
 **1. Acessar a interface web**
