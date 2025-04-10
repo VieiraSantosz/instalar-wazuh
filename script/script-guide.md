@@ -24,7 +24,12 @@ Antes de executar o script, verifique se o seu servidor atende aos seguintes req
 
 ## Execução do Script
 1. Fazer o download do Script
-2. Mudar a permissão do Script para pode ser executar
+2. Acesse a pasta do onde está localizado o script
+```bash
+cd /wazuh-guide/script
+```
+
+3. Mudar a permissão do Script para pode ser executar
 ```bash
 chmod +x install_wazuh.sh
 ```
