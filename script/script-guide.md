@@ -23,21 +23,26 @@ Antes de executar o script, verifique se o seu servidor atende aos seguintes req
 
 
 ## Execução do Script
-1. Clone o repositório
+**1. Clone o repositório**
+Clone o repositório onde o script de instalação está armazenado.
 ```bash
 git clone https://github.com/VieiraSantosz/wazuh-guide.git
 ```
 
-2. Acesse a pasta do onde está localizado o script
+**2. Navegar até o diretório do script**
+Acesse a pasta onde o script foi clonado.
 ```bash
 cd /wazuh-guide/script
 ```
 
-3. Mudar a permissão do Script para pode ser executar
+**3. Conceder permissões para o script**
+Antes de executar o script, é necessário garantir que ele tenha permissões de execução.
 ```bash
 chmod +x install_wazuh.sh
 ```
-4. Executar o Script
+
+**4. Executar o script de instalação**
+Agora, execute o script para iniciar a instalação do Wazuh.
 ```bash
 ./install_wazuh.sh
 ```
@@ -45,7 +50,7 @@ chmod +x install_wazuh.sh
 ![Wazuh](https://github.com/user-attachments/assets/53ae1d47-dc4c-4c9a-ab77-0f3c4762ee8b)
 
 
-Após a instalação, o script fornecerá as credenciais para o primeiro acesso (login e senha) e o link da interface web. Guarde essas informações, pois você precisará delas para acessar a plataforma do Wazuh.
+Após a instalação, o script fornecerá as credenciais para o primeiro acesso (login e senha) e o link de acesso à interface web. Guarde essas informações, pois você precisará delas para acessar a plataforma do Wazuh.
 
 ![image](https://github.com/user-attachments/assets/b4e94513-db92-4bfe-ab59-49c3584f115f)
 
@@ -73,7 +78,13 @@ Depois de realizar o login, você estará pronto para começar a explorar e conf
 ![image](https://github.com/user-attachments/assets/83deff03-05c0-4a5b-8aea-756dbac1c52e)
 
 
+## Solução de Problemas
 
+Caso encontre problemas durante o processo de instalação ou ao acessar a plataforma, aqui estão algumas dicas para resolver:
+
+-Problema com a conexão à internet: Verifique se o servidor está conectado à internet e consegue acessar os repositórios do Wazuh.
+- Erro ao executar o script: Caso o script não execute corretamente, consulte o log de instalação para mais detalhes sobre o erro. O log pode ser encontrado em /var/log/wazuh-install.log.
+- Acesso à interface web: Se não conseguir acessar a interface web, verifique se a porta 443 (HTTPS) está aberta no firewall do servidor.
 
 
 
