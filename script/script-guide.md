@@ -23,28 +23,35 @@ Antes de executar o script, verifique se o seu servidor atende aos seguintes req
 
 
 ## Execução do Script
-**1. Clone o repositório**
+**1. Atualizar o servidor**
+
+Antes de executar o script, certifique-se de que o servidor está atualizado. Isso garante que os pacotes necessários sejam instalados corretamente.
+```bash
+sudo apt update && sudo apt upgrade -y
+```
+
+**2. Clone o repositório**
 
 Clone o repositório onde o script de instalação está armazenado.
 ```bash
 git clone https://github.com/VieiraSantosz/wazuh-guide.git
 ```
 
-**2. Navegar até o diretório do script**
+**3. Navegar até o diretório do script**
 
 Acesse a pasta onde o script foi clonado.
 ```bash
 cd /wazuh-guide/script
 ```
 
-**3. Conceder permissões para o script**
+**4. Conceder permissões para o script**
 
 Antes de executar o script, é necessário garantir que ele tenha permissões de execução.
 ```bash
 chmod +x install_wazuh.sh
 ```
 
-**4. Executar o script de instalação**
+**5. Executar o script de instalação**
 
 Agora, execute o script para iniciar a instalação do Wazuh.
 ```bash
