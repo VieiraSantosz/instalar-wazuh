@@ -16,7 +16,7 @@ Instruções para executar o script install_wazuh.sh e o primeiro acesso à plat
 
 Antes de executar o script, verifique se o seu servidor atende aos seguintes requisitos:
 
-- **Sistema operacional:** Ubuntu
+- **Sistema operacional:** Ubuntu 16.04, 18.04, 20.04, 22.04, 24.04
 - **Mínimo de disco:** 50 GB
 - **Mínimo de memória RAM:** 8 GB
 - **Mínimo de CPU:** 4 CPU
