@@ -16,7 +16,7 @@ Instruções para executar o script install_wazuh.sh e o primeiro acesso à plat
 
 Antes de executar o script, verifique se o seu servidor atende aos seguintes requisitos:
 
-- **Sistema operacional:** CentOS, Red Hat Enterprise Linux (RHEL), Ubuntu e Amazon Linux
+- **Sistema operacional:** Ubuntu
 - **Mínimo de disco:** 50 GB
 - **Mínimo de memória RAM:** 8 GB
 - **Mínimo de CPU:** 4 CPU
