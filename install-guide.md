@@ -48,7 +48,7 @@ Após a instalação, o assistente do Wazuh fornecerá as credenciais para o pri
 
 Após a instalação, abra o seu navegador e insira a seguinte URL para acessar a plataforma do Wazuh:
 ```bash
-https://localhost
+https://<IP-do-Servidor>
 ```
 **Nota:** Caso você esteja acessando a plataforma remotamente, substitua o **localhost** pelo endereço IP ou nome de domínio do servidor onde o Wazuh foi instalado.
 
