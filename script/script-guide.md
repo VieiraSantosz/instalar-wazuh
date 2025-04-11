@@ -41,7 +41,7 @@ git clone https://github.com/VieiraSantosz/wazuh-guide.git
 
 Acesse a pasta onde o script foi clonado.
 ```bash
-cd /wazuh-guide/script
+cd wazuh-guide/script
 ```
 
 **4. Conceder permissões para o script**
@@ -72,7 +72,7 @@ Após a instalação, o script fornecerá as credenciais para o primeiro acesso 
 
 Após a instalação, abra o seu navegador e insira link de acesso à interface web, que foi fornecido pelo script, para acessar a plataforma do Wazuh:
 ```bash
-https://localhost
+https://<IP-do-Servidor>
 ```
 **Nota:** Caso você esteja acessando a plataforma remotamente, substitua o **localhost** pelo endereço IP ou nome de domínio do servidor onde o Wazuh foi instalado.
 
@@ -96,16 +96,3 @@ Caso encontre problemas durante o processo de instalação ou ao acessar a plata
 - Problema com a conexão à internet: Verifique se o servidor está conectado à internet e consegue acessar os repositórios do Wazuh.
 - Erro ao executar o script: Caso o script não execute corretamente, consulte o log de instalação para mais detalhes sobre o erro. O log pode ser encontrado em /var/log/wazuh-install.log.
 - Acesso à interface web: Se não conseguir acessar a interface web, verifique se a porta 443 (HTTPS) está aberta no firewall do servidor.
-
-
-
-
-
-
-
-
-
-
-
-
-
