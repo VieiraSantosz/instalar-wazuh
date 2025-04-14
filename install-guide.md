@@ -69,7 +69,7 @@ Depois de realizar o login, você estará pronto para começar a explorar e conf
 Caso a instalação não tenha ocorrido conforme esperado, verifique o seguinte:
 
 - **Falha na conexão com a internet:** Verifique se a sua conexão está funcionando corretamente e que o servidor pode acessar os repositórios do Wazuh.
-- **Erros durante o script de instalação:** Se o script falhou, consulte o log de instalação para mensagens de erro detalhadas. O log pode ser encontrado em **/var/log/wazuh-install.log.**
+- **Erros durante o script de instalação:** Se o script falhou, consulte o log de instalação para mensagens de erro detalhadas. O log pode ser encontrado em **/var/log/wazuh-install.log**.
 - **Acesso à interface web:** Se você não consegue acessar a interface web, verifique se a porta 443 está aberta no firewall do servidor.
    
  
