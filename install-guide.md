@@ -50,7 +50,6 @@ Após a instalação, abra o seu navegador e insira a seguinte URL para acessar 
 ```bash
 https://<IP-do-Servidor>
 ```
-**Nota:** Caso você esteja acessando a plataforma remotamente, substitua o **localhost** pelo endereço IP ou nome de domínio do servidor onde o Wazuh foi instalado.
 
 **2. Login inicial**
 
