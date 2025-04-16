@@ -46,7 +46,7 @@ Após a instalação, o assistente do Wazuh fornecerá as credenciais para o pri
 ## Primeiro acesso à plataforma
 **1. Acessar a interface web**
 
-Depois que os serviços estiverem ativos, abra o navegador e acesse a interface web do Wazuh utilizando o IP da sua máquina.
+Abra o navegador e acesse a interface web do Wazuh utilizando o IP da sua máquina.
 ```bash
 https://<IP-do-Servidor>
 ```
