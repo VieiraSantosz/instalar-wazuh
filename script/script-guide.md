@@ -70,7 +70,7 @@ Após a instalação, o script fornecerá as credenciais para o primeiro acesso 
 ## Primeiro acesso à plataforma
 **1. Acessar a interface web**
 
-Após a instalação, abra o seu navegador e insira o link de acesso à interface web fornecido pelo script para acessar a plataforma do Wazuh:
+Depois que os serviços estiverem ativos, abra o navegador e acesse a interface web do Wazuh utilizando o IP da sua máquina.
 ```bash
 https://<IP-do-Servidor>
 ```
