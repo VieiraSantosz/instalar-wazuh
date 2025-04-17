@@ -61,7 +61,7 @@ Agora, execute o script para iniciar a instalação do Wazuh.
 ![Wazuh](https://github.com/user-attachments/assets/53ae1d47-dc4c-4c9a-ab77-0f3c4762ee8b)
 
 
-Após a instalação, o script fornecerá as credenciais para o primeiro acesso (login e senha) e o link de acesso à interface web. Guarde essas informações, pois você precisará delas para acessar a plataforma do Wazuh.
+Após a instalação, o script fornecerá as credenciais para o primeiro acesso (user e senha) e o link de acesso à interface web. Guarde essas informações, pois você precisará delas para acessar a plataforma do Wazuh.
 
 ![image](https://github.com/user-attachments/assets/92db2d27-a36f-43e5-8fb3-b32790c8fad2)
 
