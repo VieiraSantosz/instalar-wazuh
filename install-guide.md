@@ -38,7 +38,7 @@ Este script automatiza a instalação e configuração do Wazuh. Durante o proce
 curl -sO https://packages.wazuh.com/4.11/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
 ```
 
-Após a instalação, o assistente do Wazuh fornecerá as credenciais para o primeiro acesso (user e senha). Guarde essas informações, pois você precisará delas para acessar a interface web do Wazuh.
+Após a instalação, o assistente do Wazuh fornecerá as credenciais para o primeiro acesso **(user e senha)**. Guarde essas informações, pois você precisará delas para acessar a interface web do Wazuh.
 
 ![Acesso Wazuh](https://github.com/user-attachments/assets/3297659a-f968-499d-af37-ce7f5d7a0eb4)
 
