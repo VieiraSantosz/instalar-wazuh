@@ -21,6 +21,7 @@ Antes de iniciar a instalação, verifique se o seu servidor atende aos seguinte
 - **Mínimo de memória RAM:** 8 GB
 - **Mínimo de CPU:** 4 CPU
 
+<br>
 
 ## Instalação do Wazuh
 
@@ -42,6 +43,7 @@ Após a instalação, o assistente do Wazuh fornecerá as credenciais para o pri
 
 ![Acesso Wazuh](https://github.com/user-attachments/assets/3297659a-f968-499d-af37-ce7f5d7a0eb4)
 
+<br>
 
 ## Primeiro acesso à plataforma
 **1. Acessar a interface web**
@@ -63,6 +65,7 @@ Depois de realizar o login, você estará pronto para começar a explorar e conf
 
 ![image](https://github.com/user-attachments/assets/83deff03-05c0-4a5b-8aea-756dbac1c52e)
 
+<br>
 
 ## Solução de Problemas
 Caso a instalação não tenha ocorrido conforme esperado, verifique o seguinte:
